@@ -1,0 +1,11 @@
+{
+  "id": "RNF1",
+  "driver": "Rastreabilidade",
+  "team": "Blue",
+  "expected": "arquivoId/processoId devem permanecer consistentes no upload, processo e resultado",
+  "status": "PASS",
+  "execution": {
+    "arquivoId": "arq_0001",
+    "processoId": "proc_0002"
+  }
+}

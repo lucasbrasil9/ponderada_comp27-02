@@ -1,0 +1,13 @@
+{
+  "name": "ponderada-comp27-02",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Atividade avaliativa: requisitos funcionais e nao funcionais como codigo",
+  "scripts": {
+    "test": "jest --runInBand",
+    "test:requirements": "jest tests/requirements --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "RNF2",
+  "driver": "Confiabilidade",
+  "team": "Red",
+  "expected": "Entradas invalidas devem retornar 400 e erro conhecido",
+  "status": "PASS",
+  "execution": {
+    "errors": [
+      "empty_file",
+      "invalid_structure",
+      "corrupted_file"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "RF1",
+  "driver": "Confiabilidade",
+  "team": "Blue",
+  "expected": "Upload valido retorna 201 com arquivoId, processoId e status PROCESSANDO",
+  "status": "PASS",
+  "execution": {
+    "statusCode": 201,
+    "data": {
+      "arquivoId": "arq_0001",
+      "processoId": "proc_0002",
+      "status": "PROCESSANDO"
+    }
+  }
+}
